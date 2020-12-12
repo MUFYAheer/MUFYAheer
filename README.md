@@ -3,7 +3,7 @@
     <img src="./img/1.jpg" width="350" alt="MUFYAheer" />
   </a>
 </p>
-<h2 align="center">Muhammad Umer Farooq</h2>
+<h1 align="center">Muhammad Umer Farooq</h1>
 <p align="center">Computer Engineer | DevOps Enthusiast | Backend Developer</p>
 
 ---
