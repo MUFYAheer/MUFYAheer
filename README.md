@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/MUFYAheer" target="blank">
-    <img src="./img/1.jpg" width="200" alt="MUFYAheer" />
+    <img src="./img/1.jpg" width="350" alt="MUFYAheer" />
   </a>
 </p>
 <h2 align="center">Muhammad Umer Farooq</h2>
