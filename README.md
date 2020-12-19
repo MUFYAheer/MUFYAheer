@@ -8,6 +8,22 @@
 
 ---
 
+```vim
+"""""""""Computer Engineer""""""DevOps Enthusiast""""""Back-end Developer"""""""
+"   __  __   _    _   ______  __     __           _                            "
+"  |  \/  | | |  | | |  ____| \ \   / /   /\     | |                           "
+"  | \  / | | |  | | | |__     \ \_/ /   /  \    | |__     ___    ___   _ __   "
+"  | |\/| | | |  | | |  __|     \   /   / /\ \   | '_ \   / _ \  / _ \ | '__|  "
+"  | |  | | | |__| | | |         | |   / ____ \  | | | | |  __/ |  __/ | |     "
+"  |_|  |_|  \____/  |_|         |_|  /_/    \_\ |_| |_|  \___|  \___| |_|     "
+"                                                                              "
+"""""""""""""""""""""""""""""mufy.aheer@gmail.com"""""""""""""""""""""""""""""""
+```
+
+> The above ASCII art is generated using service provided in [this webpage](https://www.kammerl.de/ascii/AsciiSignature.php)
+
+---
+
 # Highlights
 
 - 🔭 I’m currently working as Software Engineer at [Invotyx](https://invotyx.com)
