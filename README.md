@@ -26,7 +26,7 @@
 
 # Highlights
 
-- 🔭 I’m currently working as Software Engineer at [Invotyx](https://invotyx.com)
+- 🔭 I’m currently working as Software Engineer at @Confiz
 - 😍 My favourite tech stack is [NestJS](https://nestjs.com), [TypeORM](https://typeorm.io) and [PostgreSQL](https://postgresql.org)
 - 🌱 I’m currently learning cloud native technologies like kubernetes
 - 👯 I’m looking to collaborate on some cool open source projects in TypeScript
